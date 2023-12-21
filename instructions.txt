@@ -1,0 +1,2 @@
+you will need to modify the API call to interact directly with this specific assistant. 
+The OpenAI API allows you to send messages directly to an assistant by its ID.
